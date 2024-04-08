@@ -139,6 +139,7 @@ html, body{
     transform: translate(-50%-50%);
     font-size: xx-large;
     font-family: sans-serif;
+    color : black;
 }
 .image h3{
     padding-left: 30%;
